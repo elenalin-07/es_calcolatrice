@@ -1,0 +1,17 @@
+C:\Users\zxt02\Documents\inf\GitHub\es_calcolatrice\calcolatrice\bin\Debug\net8.0-windows\calcolatrice.exe
+C:\Users\zxt02\Documents\inf\GitHub\es_calcolatrice\calcolatrice\bin\Debug\net8.0-windows\calcolatrice.deps.json
+C:\Users\zxt02\Documents\inf\GitHub\es_calcolatrice\calcolatrice\bin\Debug\net8.0-windows\calcolatrice.runtimeconfig.json
+C:\Users\zxt02\Documents\inf\GitHub\es_calcolatrice\calcolatrice\bin\Debug\net8.0-windows\calcolatrice.dll
+C:\Users\zxt02\Documents\inf\GitHub\es_calcolatrice\calcolatrice\bin\Debug\net8.0-windows\calcolatrice.pdb
+C:\Users\zxt02\Documents\inf\GitHub\es_calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.Form1.resources
+C:\Users\zxt02\Documents\inf\GitHub\es_calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.csproj.GenerateResource.cache
+C:\Users\zxt02\Documents\inf\GitHub\es_calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxt02\Documents\inf\GitHub\es_calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.AssemblyInfoInputs.cache
+C:\Users\zxt02\Documents\inf\GitHub\es_calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.AssemblyInfo.cs
+C:\Users\zxt02\Documents\inf\GitHub\es_calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\zxt02\Documents\inf\GitHub\es_calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.sourcelink.json
+C:\Users\zxt02\Documents\inf\GitHub\es_calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.dll
+C:\Users\zxt02\Documents\inf\GitHub\es_calcolatrice\calcolatrice\obj\Debug\net8.0-windows\refint\calcolatrice.dll
+C:\Users\zxt02\Documents\inf\GitHub\es_calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.pdb
+C:\Users\zxt02\Documents\inf\GitHub\es_calcolatrice\calcolatrice\obj\Debug\net8.0-windows\calcolatrice.genruntimeconfig.cache
+C:\Users\zxt02\Documents\inf\GitHub\es_calcolatrice\calcolatrice\obj\Debug\net8.0-windows\ref\calcolatrice.dll
