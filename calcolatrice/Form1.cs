@@ -160,6 +160,7 @@ namespace calcolatrice
             }
             ris += num_ope;
             lblRis.Text = ris.ToString();
+            espressione = ris.ToString();
         }
         private void Clean_Click(object sender, EventArgs e)
         {
